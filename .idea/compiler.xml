@@ -10,5 +10,8 @@
         <module name="extentreports-cucumber7-adapter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="extentreports-cucumber7-adapter" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
