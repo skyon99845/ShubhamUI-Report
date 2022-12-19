@@ -153,7 +153,7 @@ public class RedBus {
         int ik=1;
         for(int i=0;i<= busFarePrice.size()-1;i++)
         {
-            if(Integer.parseInt(busFarePrice.get(i).getText())>=2000 && Integer.parseInt(busFarePrice.get(i).getText())<=3000)
+            if(Double.parseDouble(busFarePrice.get(i).getText())>=2000 && Double.parseDouble(busFarePrice.get(i).getText())<=3000)
             {
 
                 System.out.println(ik+". BusName :"+busNameList.get(i).getText()+" BusTicket :"+Integer.parseInt(busFarePrice.get(i).getText()));

@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46943c3a-5ae7-429f-895b-502d6b7be1d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_23_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extentreports-cucumber7-adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/extentreports-cucumber7-adapter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageFactoryModel/RedBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageFactoryModel/RedBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitionRedBus/SearchBus.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitionRedBus/SearchBus1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitionRedBus/SearchBus3.Text" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +22,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2By642AO0qVSxkJOqJIeZAr7pMF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/shubh/OneDrive/Desktop/Selenium Working/ShubhamUI-Report"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="extentreports-cucumber7-adapter" />
@@ -73,6 +80,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
